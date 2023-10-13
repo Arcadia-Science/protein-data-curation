@@ -7,7 +7,7 @@
 #### - Annotate proteins with [Eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper), [KofamScan](https://github.com/takaram/kofam_scan)
 #### - Predict signal peptides with [DeepSig](https://github.com/BolognaBiocomp/deepsig)
 
-* Note: this pipeline was successfully run on Ubuntu 22.04. It currently does not work on MacOS because of incompatibility with DeepSig requirements *
+* Note: this pipeline was successfully run on Ubuntu 22.04. It currently does not work on MacOS because of incompatibility with DeepSig requirements 
 
 ### Set-up
 #### First create a conda environment using the ```envs/environment.yml``` file and activate your new environment
