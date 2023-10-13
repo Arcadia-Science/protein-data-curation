@@ -3,7 +3,7 @@
 #### - Download a proteome or transcriptome file using a URL link
 #### - Combine proteomes/transcriptomes if multiple are present for the same species
 #### - For assembled transcriptomes, run [Transdecoder](https://github.com/TransDecoder/TransDecoder/wiki) to predict coding regions within transcripts
-#### - Format files to be compatible with [NovelTree](https://github.com/Arcadia-Science/2023-tsar-noveltree)
+#### - Format files to be compatible with [NovelTree](https://github.com/Arcadia-Science/noveltree)
 #### - Annotate proteins with [Eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper), [KofamScan](https://github.com/takaram/kofam_scan)
 #### - Predict signal peptides with [DeepSig](https://github.com/BolognaBiocomp/deepsig)
 
