@@ -1,0 +1,8 @@
+channels:
+   - conda-forge
+   - bioconda
+   - defaults
+dependencies:
+   - transdecoder=5.7.1
+   - perl-db-file=1.855
+   - perl-uri=5.17
