@@ -1,0 +1,12 @@
+name: protein_preprocessing
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - cd-hit=4.8.1
+  - curl=8.2.1
+  - parallel=20230722
+  - r-seqinr=4.2_30
+  - sed=4.7
+  - seqkit=2.5.0
